@@ -1,7 +1,7 @@
 # Named Entity Extraction from Tamil Tweets
 
 ## Folder Structure
-VSM : Co - Occurrence matrix based Tamil NER service
+VSM : Co - Occurrence matrix based Tamil NER service \\
 VSMs : Word2Vec model based Tamil NER service
 
 ## Required Libraries
