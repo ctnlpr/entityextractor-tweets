@@ -1,0 +1,1 @@
+('training accuracy is: ', 0.8767414762652617)
